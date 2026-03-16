@@ -1,4 +1,4 @@
-# Claire Yi Wang
+# Hi, this is Yi, you can also call me Claire
 Opinions are mine. 
 Thinking about agents, tools, and the future of human–AI collaboration.
 
