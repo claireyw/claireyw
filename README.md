@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @yiwangnatalia
-- 👀 I’m interested in human computer interaction and computational social sciences. 
-- 🌱 I’m currently studying information sciences at UT Austin.
-- 📫 How to reach me: yi.wang@utexas.edu
+# Claire Yi Wang
+Opinions are mine. 
+Thinking about agents, tools, and the future of human–AI collaboration.
 
-<!---
-yiwangnatalia/yiwangnatalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently exploring:
+- AI-native product building
+- Multi-agent systems
+- Developer tools & automation
+- Tech storytelling
+
+I believe the most interesting builders in the next decade will be those who can:
+build, think, and explain.
+
+This GitHub is my lab for experiments, prototypes, and ideas.
+
+Twitter / X: (coming soon)  
+Tech writing & videos: in progress
